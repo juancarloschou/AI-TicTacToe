@@ -1,0 +1,10 @@
+D:\Programas\tres_en_raya\logica\bin\Debug\logica.dll
+D:\Programas\tres_en_raya\logica\bin\Debug\logica.pdb
+D:\Programas\tres_en_raya\logica\obj\Debug\ResolveAssemblyReference.cache
+D:\Programas\tres_en_raya\logica\obj\Debug\logica.dll
+D:\Programas\tres_en_raya\logica\obj\Debug\logica.pdb
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\logica\obj\Debug\ResolveAssemblyReference.cache
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\logica\bin\Debug\logica.dll
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\logica\bin\Debug\logica.pdb
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\logica\obj\Debug\logica.dll
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\logica\obj\Debug\logica.pdb

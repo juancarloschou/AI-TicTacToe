@@ -1,0 +1,20 @@
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\obj\Debug\windows.Form1.resources
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\obj\Debug\windows.Properties.Resources.resources
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\bin\Debug\windows.exe
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\bin\Debug\windows.pdb
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\bin\Debug\logica.dll
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\bin\Debug\logica.pdb
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\obj\Debug\windows.exe
+D:\Programas\tres_en_raya\win_tres_en_raya\windows\obj\Debug\windows.pdb
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\obj\Debug\ResolveAssemblyReference.cache
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\obj\Debug\windows.Form1.resources
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\obj\Debug\windows.Properties.Resources.resources
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\obj\Debug\Windows.csproj.GenerateResource.Cache
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\bin\Debug\windows.exe
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\bin\Debug\windows.pdb
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\bin\Debug\logica.dll
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\bin\Debug\logica.pdb
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\obj\Debug\windows.exe
+C:\trabajo\programacion juegos\tres_en_raya\tres_en_raya\windows\obj\Debug\windows.pdb
