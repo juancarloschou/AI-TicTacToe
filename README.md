@@ -1,3 +1,3 @@
 # TicTacToe
-IA MiniMax for TicTacToe (tres en raya)  
+IA bot with MiniMax algorithm for TicTacToe (tres en raya)  
 In spanish (en español)
